@@ -136,7 +136,7 @@ Contributions are welcome! Please follow these steps:
 
 ## License
 This project is licensed under the MIT License.
-
+ with 
 ---
 
-**Note:** Replace `your-username` in the screenshot links with your actual GitHub username. Upload the screenshots to a `screenshots` folder in your repository and update the links accordingly.
+**Note:**I have provided this project to you on public repo with love dont try to penetratee my security because 1. Not possible 2. You will never get my secret key and 3. I will pull it down**
