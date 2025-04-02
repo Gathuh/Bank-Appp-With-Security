@@ -139,4 +139,6 @@ This project is licensed under the MIT License.
  with 
 ---
 
-***Note:*** **I have provided this project to you on public repo with love dont try to penetratee my security because 1. Not possible 2. You will never get my secret key and 3. I will pull it down**
+***Note:*** 
+- Tn this project you cannot register a customer with inval email unless you do it on the database side and set verificatio is equals to true; otherwise emails must be valid; 
+-I have provided this project to you on public repo with love dont try to penetratee my security because 1. Not possible 2. You will never get my secret key and 3. I will pull it down
